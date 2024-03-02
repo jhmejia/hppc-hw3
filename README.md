@@ -1,14 +1,16 @@
 Hello, World!
 
-HPPC HW1.
+HPPC HW3.
 
-1. is a hello world
+Notable files: 
 
-2. Is a ring process
+- Problem 1: one.c
+- Problem 2: two.c
+- Problem 3: rps.c
+- Problem 4: infiniband_jhm.pdf
 
-3. is an RPS game
+  (notable problem 4 files are also included)
 
-4. Is a ping-pong test
 
 
 How to do MPI programs:
