@@ -1,13 +1,15 @@
 Hello, World!
 
-HPPC HW3.
+# HPPC HW3.
+
+### Author: John Henry Mejia
 
 Notable files: 
 
-- Problem 1: one.c
-- Problem 2: two.c
-- Problem 3: rps.c
-- Problem 4: infiniband_jhm.pdf
+- Problem 1: [one.c](one.c)
+- Problem 2: [two.c](two.c)
+- Problem 3: [rps.c](rps.c)
+- Problem 4: [infiniband_jhm.pdf](infiniband_jhm.pdf)
 
   (notable problem 4 files are also included)
 
