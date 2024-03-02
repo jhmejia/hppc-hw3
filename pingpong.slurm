@@ -36,7 +36,7 @@
 
  
 
-#SBATCH -N 1               # Total # of nodes (must be 1 for serial)
+#SBATCH -N 2               # Total # of nodes (must be 1 for serial)
 
 #SBATCH -n 2               # Total # of mpi tasks (should be 1 for serial)
 
